@@ -1,9 +1,8 @@
 import os
-from glob import glob
 import cv2
-from random import shuffle, choice
+from random import shuffle
 from collections import deque
-from time import time 
+
 
 image_dir = "C:\\Users\\Paulymorphous\\Pictures\\Clicks\\"
 
